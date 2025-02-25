@@ -3,3 +3,5 @@ Hiii everyone
 Statement after committing the file
 Changing the branches in git bash is becoming easy
 Git status helps us to check the status of the file that whether it was modified or added 
+New Content
+New Content
