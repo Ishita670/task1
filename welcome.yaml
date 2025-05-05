@@ -1,0 +1,5 @@
+name: My First Project
+version: 1.0
+environment: 
+	-development
+	-production
